@@ -5,5 +5,10 @@ public class TestClass {
 	 {
 		 System.out.println("Push by User B");
 	 }
+	 
+	 public void test2()
+	 {
+		 System.out.println("Push by User A");
+	 }
 
 }
