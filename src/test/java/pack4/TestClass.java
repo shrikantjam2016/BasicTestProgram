@@ -15,5 +15,10 @@ public class TestClass {
 	 {
 		 System.out.println("Created new Branch");
 	 }
+	 
+	 public void test4()
+	 {
+		 System.out.println("added in Branch");
+	 }
 
 }
