@@ -10,5 +10,10 @@ public class TestClass {
 	 {
 		 System.out.println("Push by User A");
 	 }
+	 
+	 public void test3()
+	 {
+		 System.out.println("Created new Branch");
+	 }
 
 }
